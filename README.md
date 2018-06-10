@@ -1,0 +1,2 @@
+# scrapy_python
+scrapy爬取网页方法，scrapy创建一个project以及运行方法
